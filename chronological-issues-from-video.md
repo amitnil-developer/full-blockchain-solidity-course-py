@@ -56,3 +56,5 @@ Or whatever version your `@chainlink` and `@openzeppelin` contracts need. For ex
   - In the video, we use events exclusivly to test our contracts, however, we could have also used `tx.return_value` to get the return value of a function. 
   - However, it's still best practice to learn how to use events, especially when updating mappings!
 
+
+
